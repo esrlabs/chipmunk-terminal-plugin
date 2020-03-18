@@ -7,7 +7,7 @@ import { FitAddon } from 'xterm-addon-fit';
 import * as Toolkit from 'chipmunk.client.toolkit';
 
 @Component({
-    selector: Toolkit.EViewsTypes.sidebarHorizontal,
+    selector: 'lib-sidebar-hor',
     templateUrl: './template.html',
     styleUrls: ['./styles.less']
 })
